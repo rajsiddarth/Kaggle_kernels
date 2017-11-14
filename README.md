@@ -1,6 +1,7 @@
 # Kaggle_kernels
 
-This repository contains practice kernels based on popular kernels published in Kaggle.  
+This repository contains practice kernels based on popular kernels published in Kaggle.
+This reposirtory also contains submissions for Kaggle Competitions.
 
 ## Project-1 :Data Exploration using Plotly 
   
