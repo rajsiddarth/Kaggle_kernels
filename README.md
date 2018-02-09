@@ -13,6 +13,8 @@ http://nbviewer.jupyter.org/github/rajsiddarth/Kaggle_kernels/blob/master/GPU_Re
 
 This kernel is based on the data https://www.kaggle.com/c/house-prices-advanced-regression-techniques. The train and test data sets are used to build a stacked regression model.This data set involves extensive data exploration to fill in the missing values.The base learners used to build the stacked regression model are Lasso,Elastic net,Kernel ridge regression,Gradient boosting and xgboost.The stacked regression approach involves the following steps.
 
+### Stacked Regression
+
 1. Split the train data sets into two sets A and B which already have the predictions.
 
 2. Build k-fold cross validation models using each of the base learners.For example train the model 1 on A using base learner 1 and cross validaton.Then use model 1 to predict on B. These predictions will be the first column of a new data set B'.
