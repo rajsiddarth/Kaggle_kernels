@@ -11,7 +11,7 @@ http://nbviewer.jupyter.org/github/rajsiddarth/Kaggle_kernels/blob/master/GPU_Re
 
 ## Project-2: House Price Prediction using Stacked Regression 
 
-This kernel is based on the data https://www.kaggle.com/c/house-prices-advanced-regression-techniques. The train and test data sets are used to build a stacked regression model.This data set involves extensive data exploration to fill in the missing values.The base learners used to build the stacked regression model are Lasso,Elastic net,Kernel ridge regression,Gradient boosting and xgboost.The stacked regression approach involves the following steps.
+This kernel is based on the data https://www.kaggle.com/c/house-prices-advanced-regression-techniques. The train and test data sets are used to build a stacked regression model.This data set involves extensive data exploration to fill in the missing values.The base learners used to build the stacked regression model are Lasso,Elastic net,Kernel ridge regression,Gradient boosting and xgboost.The ideas for building a stack net are borrowed from  https://github.com/kaz-Anova/StackNet. The stacked regression approach involves the following steps.
 
 ### Stacked Regression
 
