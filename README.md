@@ -27,5 +27,8 @@ This kernel is based on the data https://www.kaggle.com/c/house-prices-advanced-
 
 6. Finally we can now predict on data set C' using the meta learner. 
 
+# Project 3
+Text Mining
+https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 
